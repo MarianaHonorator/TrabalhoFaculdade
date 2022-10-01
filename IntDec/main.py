@@ -1,7 +1,7 @@
 numero = float(input("Digite um numero:"))
-#Caso seja par:
+#Caso seja inteiro:
 if numero % 1 == 0:
     print("Inteiro")
-#Caso seja impar:
+#Caso seja decimal:
 else:
     print("Decimal!")
